@@ -2,24 +2,26 @@ $(document).ready(function () {
     var audio = new Audio("./audio/welcome.mp3");
     audio.play();
     var scores_1 = [
-        {
-            id: 0,
-            logo: "./images/TA.png",
-            teamName: "Saara Paambu",
-            teamScore: "5.5"
+          {
+            id: 2,
+            logo: "./images/TC.png",
+            teamName: "Sutta Thalai Yennaku",
+            teamScore: "12"
         },
+        
         {
             id: 1,
             logo: "./images/TB.png",
             teamName: "Varutha Padatha Valibar Sangham",
             teamScore: "11"
         },
-        {
-            id: 2,
-            logo: "./images/TC.png",
-            teamName: "Sutta Thalai Yennaku",
-            teamScore: "12"
+          {
+            id: 5,
+            logo: "./images/TF.png",
+            teamName: "7.1/2 Yelare Sani",
+            teamScore: "11"
         },
+      
     ]
     var scores_2 = [
         {
@@ -35,11 +37,12 @@ $(document).ready(function () {
             teamScore: "6"
         },
         {
-            id: 5,
-            logo: "./images/TF.png",
-            teamName: "7.1/2 Yelare Sani",
-            teamScore: "11"
+            id: 0,
+            logo: "./images/TA.png",
+            teamName: "Saara Paambu",
+            teamScore: "5.5"
         },
+      
     ]
     loadScores1(scores_1)
     loadScores2(scores_2)
