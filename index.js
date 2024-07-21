@@ -12,7 +12,7 @@ $(document).ready(function () {
             id: 1,
             logo: "./images/TB.png",
             teamName: "Varutha Padatha Valibar Sangham",
-            teamScore: "11.5"
+            teamScore: "11"
         },
         {
             id: 2,
