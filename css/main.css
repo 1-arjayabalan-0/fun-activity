@@ -699,7 +699,7 @@ body {
 }
 .mid-sec-cont {
   position: absolute;
-  height: calc(100% + 120%);
+  height: calc(100% + 140%);
   top: 600px;
   left: 0px;
   right: 0px;
@@ -831,11 +831,13 @@ body {
   height: 100px;
 }
 .winn-ft-txt{
+
   font-size: 70px;
   font-family: "Baloo";
-  color: #00a799;
+  color: #44ffef;
   position: relative;
   text-align: center;
+  text-shadow: 10px 10px 25px #000000b5;
 }
 .twhite {
   color: #ffffff;
