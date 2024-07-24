@@ -699,7 +699,7 @@ body {
 }
 .mid-sec-cont {
   position: absolute;
-  height: calc(100% + 40%);
+  height: calc(100% + 120%);
   top: 600px;
   left: 0px;
   right: 0px;
@@ -741,7 +741,7 @@ body {
   gap: 15px;
 }
 .winn-itxt {
-  font-size: 35px;
+  font-size: 45px;
   font-family: "PartyKids";
 }
 .winn-btxt {
@@ -757,6 +757,14 @@ body {
   color: #ffffff;
   position: relative;
   text-align: center;
+}
+.winn-sub-txt {
+  font-size: 50px;
+  font-family: "Baloo";
+  color: #ffffff;
+  position: relative;
+  text-align: center;
+  margin-bottom: 50px;
 }
 .winn-stxt {
   font-size: 70px;
@@ -780,6 +788,13 @@ body {
   display: flex;
   flex-direction: column;
   gap: 20px;
+}
+.nxt-sec-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 50px;
 }
 .winn-symb {
   font-size: 50px;
@@ -814,4 +829,15 @@ body {
 .winn-cup-img2{
   width: 200px;
   height: 100px;
+}
+.winn-ft-txt{
+  font-size: 70px;
+  font-family: "Baloo";
+  color: #00a799;
+  position: relative;
+  text-align: center;
+}
+.twhite {
+  color: #ffffff;
+  
 }
