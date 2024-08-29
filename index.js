@@ -6,20 +6,20 @@ $(document).ready(function () {
             id: 5,
             logo: "./images/TF.png",
             teamName: "7.1/2 Yelare Sani",
-            teamScore: "13"
+            teamScore: "0"
         },
         {
             id: 2,
             logo: "./images/TC.png",
             teamName: "Sutta Thalai Yennaku",
-            teamScore: "12"
+            teamScore: "0"
         },
 
         {
             id: 1,
             logo: "./images/TB.png",
             teamName: "Varutha Padatha Valibar Sangham",
-            teamScore: "12"
+            teamScore: "0"
         },
 
     ]
@@ -28,19 +28,19 @@ $(document).ready(function () {
             id: 3,
             logo: "./images/TD.png",
             teamName: "Thotta ne Ketta",
-            teamScore: "10"
+            teamScore: "0"
         },
         {
             id: 4,
             logo: "./images/TE.png",
             teamName: "Jil Jung Juk",
-            teamScore: "7.5"
+            teamScore: "0"
         },
         {
             id: 0,
             logo: "./images/TA.png",
             teamName: "Saara Paambu",
-            teamScore: "6.5"
+            teamScore: "0"
         },
 
     ]
